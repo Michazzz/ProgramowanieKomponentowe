@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calendar", "Calendar\Calendar.csproj", "{33359D41-F8E8-4D33-9B2C-824E6807D303}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Appointments", "Appointments\Appointments.csproj", "{E0B00104-A9AD-420B-A21A-F9EA366720C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controls", "Controls\Controls.csproj", "{1E19FAC4-5319-4182-80B3-E01246885199}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33359D41-F8E8-4D33-9B2C-824E6807D303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33359D41-F8E8-4D33-9B2C-824E6807D303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33359D41-F8E8-4D33-9B2C-824E6807D303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33359D41-F8E8-4D33-9B2C-824E6807D303}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0B00104-A9AD-420B-A21A-F9EA366720C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0B00104-A9AD-420B-A21A-F9EA366720C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0B00104-A9AD-420B-A21A-F9EA366720C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0B00104-A9AD-420B-A21A-F9EA366720C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E19FAC4-5319-4182-80B3-E01246885199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E19FAC4-5319-4182-80B3-E01246885199}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E19FAC4-5319-4182-80B3-E01246885199}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E19FAC4-5319-4182-80B3-E01246885199}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
